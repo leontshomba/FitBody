@@ -730,7 +730,7 @@ footer {
         max-width: 100%;
         left: 0;
         bottom: -185%;
-        display: hidden;
+        display: none;
     }
 
     footer {

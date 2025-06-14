@@ -723,7 +723,7 @@ footer {
         text-align: center;
     }
 
-    .class-content > p {
+    .class-content > p, .class-content > button {
         margin-bottom: 1.5rem;
     }
 

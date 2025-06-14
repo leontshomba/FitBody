@@ -367,10 +367,6 @@ img {
     margin-top: 1rem;
 }
 
-/* .join {
-    background-color: white;
-} */
-
 .join-content {
     position: relative;
 }
@@ -422,7 +418,6 @@ img {
 
 .pricing-header {
     text-align: center;
-    margin-top: 10rem;
     margin-bottom: 4rem;
 }
 
@@ -700,7 +695,7 @@ footer {
         flex-direction: column;
         justify-content: space-between;
         gap: 5rem;
-        margin-bottom: 15rem;
+        margin-bottom: 12rem;
     }
 
     .class-images {
@@ -708,7 +703,7 @@ footer {
     }
 
     .class-1-img {
-        position: relative;
+        position: static;
         max-width: 100%;
     }
 
@@ -723,14 +718,16 @@ footer {
         margin-bottom: 1.5rem;
     }
 
-    .join {
-        margin-bottom: 32.5rem;
+    #join {
+        margin-bottom: 0 0 5rem 0;
     }
 
     .join-card {
+        position: relative;
         max-width: 100%;
+        top: -30px;
         left: 0;
-        bottom: -27.5rem;
+        max-height: max-content;
     }
 
     footer {

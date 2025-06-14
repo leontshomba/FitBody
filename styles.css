@@ -743,6 +743,7 @@ footer {
     footer {
         padding: 2.5rem 2rem;
         align-items: center;
+        gap: 2rem;
     }
 
     .footer-items {

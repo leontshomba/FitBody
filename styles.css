@@ -714,6 +714,10 @@ footer {
         bottom: -50%;
     }
 
+    .class-content > h2 {
+        text-align: center;
+    }
+
     .class-content {
         order: 1;
         text-align: center;

@@ -714,6 +714,11 @@ footer {
         bottom: -50%;
     }
 
+    .class-content {
+        order: 1;
+        text-align: center;
+    }
+
     .class-content > p {
         margin-bottom: 1.5rem;
     }

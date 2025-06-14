@@ -730,8 +730,7 @@ footer {
     .join-card {
         max-width: 100%;
         left: 0;
-        bottom: -185%;
-        display: none;
+        bottom: -27rem;
     }
 
     footer {

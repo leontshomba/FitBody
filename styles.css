@@ -720,11 +720,12 @@ footer {
 
     .class-content {
         order: 1;
-        text-align: center;
+        align-items: center;
     }
 
-    .class-content > p, .class-content > button {
-        margin-bottom: 1.5rem;
+    .class-content > p {
+        text-align: center;
+        margin-bottom: 2rem;
     }
 
     #join {
